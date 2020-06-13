@@ -1,4 +1,4 @@
-name: Greetings
+name: Welcome to COVID19Hackathon2020. !!!
 
 on: [pull_request, issues]
 
